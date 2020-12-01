@@ -1,0 +1,7 @@
+$ git clone https://github.com/inscape-sa/spresense_hardware_check.git
+$ cd ./spresense_hardware_check
+$ git submodule add https://github.com/sonydevworld/spresense.git
+$ git submodule update --init --recursive
+$ git add -add
+$ git commit -m "state - init"
+$ git push 

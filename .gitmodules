@@ -1,3 +1,6 @@
 [submodule "spresense"]
 	path = spresense
 	url = https://github.com/sonydevworld/spresense.git
+[submodule "spresense_sub"]
+	path = spresense_sub
+	url = https://github.com/sonydevworld/spresense.git
